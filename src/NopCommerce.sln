@@ -61,7 +61,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nop.Tests", "Tests\Nop.Test
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nop.Plugin.Widgets.AccessiBe", "Plugins\Nop.Plugin.Widgets.AccessiBe\Nop.Plugin.Widgets.AccessiBe.csproj", "{80CEF733-A369-4854-823D-847DFD5D8D87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nop.Plugin.Widget.HelloWorld", "Plugins\Nop.Plugin.Widget.HelloWorld\Nop.Plugin.Widget.HelloWorld.csproj", "{266F7A52-3C2D-47A2-BAFE-D0210968FD9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nop.Plugin.Widget.BestSeller", "Plugins\Nop.Plugin.Widget.HelloWorld\Nop.Plugin.Widget.BestSeller.csproj", "{266F7A52-3C2D-47A2-BAFE-D0210968FD9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

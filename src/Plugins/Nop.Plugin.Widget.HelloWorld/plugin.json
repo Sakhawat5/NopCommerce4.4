@@ -1,11 +1,11 @@
 {
   "Group": "Widgets",
-  "FriendlyName": "Hellow World",
-  "SystemName": "Widgets.HelloWorld",
+  "FriendlyName": "Top Best Seller",
+  "SystemName": "Widgets.BestSeller",
   "Version": "1.1",
   "SupportedVersions": [ "4.40" ],
   "Author": "NopCommerce team, BSS",
   "DisplayOrder": 1,
-  "FileName": "Nop.Plugin.Widget.HelloWorld.dll",
-  "Description": "This plugin integrates with Hello World Plugin. It   keeps track of statistics about the visitors and eCommerce conversion   on your website"
+  "FileName": "Nop.Plugin.Widget.BestSeller.dll",
+  "Description": "This plugin integrates with Best Seller Plugin. It keeps track of statistics about the visitors and eCommerce conversion on your website"
 }

@@ -4,9 +4,9 @@ using System.Threading.Tasks;
 using Nop.Services.Cms;
 using Nop.Services.Plugins;
 
-namespace Nop.Plugin.Widget.HelloWorld
+namespace Nop.Plugin.Widget.BestSeller
 {
-    public class HelloWorldPlugin : BasePlugin, IWidgetPlugin
+    public class BestSellerPlugin : BasePlugin, IWidgetPlugin
     {
         /// <summary>
         /// Gets a value indicating whether to hide this plugin on the widget list page in the admin area
@@ -20,7 +20,7 @@ namespace Nop.Plugin.Widget.HelloWorld
         /// <returns>View component name</returns>
         public string GetWidgetViewComponentName(string widgetZone)
         {
-            return "HelloWorldWidget";
+            return "HomePageBestSellerBrand";
         }
 
         /// <summary>
