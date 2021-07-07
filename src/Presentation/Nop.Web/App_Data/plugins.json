@@ -82,6 +82,10 @@
     {
       "SystemName": "Widgets.HelloWorld",
       "Version": "1.1"
+    },
+    {
+      "SystemName": "Widgets.BestSeller",
+      "Version": "1.1"
     }
   ],
   "PluginNamesToUninstall": [],
