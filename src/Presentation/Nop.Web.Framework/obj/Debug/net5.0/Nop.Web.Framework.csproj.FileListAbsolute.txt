@@ -396,7 +396,6 @@ D:\BSS_OFFICE\New folder\NopCommerce4.4\src\Presentation\Nop.Web.Framework\bin\D
 D:\BSS_OFFICE\New folder\NopCommerce4.4\src\Presentation\Nop.Web.Framework\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
 D:\BSS_OFFICE\New folder\NopCommerce4.4\src\Presentation\Nop.Web.Framework\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
 D:\BSS_OFFICE\New folder\NopCommerce4.4\src\Presentation\Nop.Web.Framework\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\BSS_OFFICE\New folder\NopCommerce4.4\src\Presentation\Nop.Web.Framework\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.dll
 D:\BSS_OFFICE\New folder\NopCommerce4.4\src\Presentation\Nop.Web.Framework\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
 D:\BSS_OFFICE\New folder\NopCommerce4.4\src\Presentation\Nop.Web.Framework\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
 D:\BSS_OFFICE\New folder\NopCommerce4.4\src\Presentation\Nop.Web.Framework\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
@@ -454,7 +453,6 @@ D:\BSS_OFFICE\New folder\NopCommerce4.4\src\Presentation\Nop.Web.Framework\bin\D
 D:\BSS_OFFICE\New folder\NopCommerce4.4\src\Presentation\Nop.Web.Framework\bin\Debug\net5.0\refs\System.Data.dll
 D:\BSS_OFFICE\New folder\NopCommerce4.4\src\Presentation\Nop.Web.Framework\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
 D:\BSS_OFFICE\New folder\NopCommerce4.4\src\Presentation\Nop.Web.Framework\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
-D:\BSS_OFFICE\New folder\NopCommerce4.4\src\Presentation\Nop.Web.Framework\bin\Debug\net5.0\refs\System.Diagnostics.DiagnosticSource.dll
 D:\BSS_OFFICE\New folder\NopCommerce4.4\src\Presentation\Nop.Web.Framework\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
 D:\BSS_OFFICE\New folder\NopCommerce4.4\src\Presentation\Nop.Web.Framework\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
 D:\BSS_OFFICE\New folder\NopCommerce4.4\src\Presentation\Nop.Web.Framework\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
@@ -602,3 +600,6 @@ D:\BSS_OFFICE\New folder\NopCommerce4.4\src\Presentation\Nop.Web.Framework\obj\D
 D:\BSS_OFFICE\New folder\NopCommerce4.4\src\Presentation\Nop.Web.Framework\obj\Debug\net5.0\Nop.Web.Framework.dll
 D:\BSS_OFFICE\New folder\NopCommerce4.4\src\Presentation\Nop.Web.Framework\obj\Debug\net5.0\ref\Nop.Web.Framework.dll
 D:\BSS_OFFICE\New folder\NopCommerce4.4\src\Presentation\Nop.Web.Framework\obj\Debug\net5.0\Nop.Web.Framework.pdb
+D:\BSS_OFFICE\New folder\NopCommerce4.4\src\Presentation\Nop.Web.Framework\bin\Debug\net5.0\Nop.Web.Framework.runtimeconfig.json
+D:\BSS_OFFICE\New folder\NopCommerce4.4\src\Presentation\Nop.Web.Framework\bin\Debug\net5.0\Nop.Web.Framework.runtimeconfig.dev.json
+D:\BSS_OFFICE\New folder\NopCommerce4.4\src\Presentation\Nop.Web.Framework\obj\Debug\net5.0\Nop.Web.Framework.genruntimeconfig.cache
